@@ -1,0 +1,2 @@
+rootProject.name='SNSProject'
+include ':app'
