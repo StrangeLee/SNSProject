@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SNSProject</string>
+    <string name="facebook_app_id">588482612091542</string>
+    <string name="fb_login_protocol_scheme">fb588482612091542</string>
 </resources>
